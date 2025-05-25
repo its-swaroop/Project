@@ -1,4 +1,4 @@
- 🐱 fCC Cat Painting
+ 🐱 Cat Painting
 
 A pure HTML and CSS art project that visually renders a **cat face** using only `div` elements and styling. This project is part of the **freeCodeCamp** curriculum challenge for developing CSS layout and styling skills.
 
