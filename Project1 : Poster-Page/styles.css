@@ -1,0 +1,101 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+main{
+  background-color: #EEEEEE;
+  border-radius: 5px;
+  padding : 8px;
+}
+
+#img-div{
+  background-color: #FFFFFF;
+  width: 75%;
+  height: auto;
+  padding: 17px;
+  border-radius: 15px;
+}
+
+h2{
+  text-align: center;
+}
+
+/* Main Title */
+#title {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+/* Image Container */
+#img-div {
+  margin: 20px auto;
+}
+
+/* Image Styling */
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Caption Styling */
+#img-caption {
+  font-style: italic;
+  margin-top: 10px;
+  color: #555;
+}
+
+section {
+  display: block;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: left;
+}
+
+.yoga-steps {
+  list-style-type: decimal;
+  margin: 0;
+  padding: 0 1rem;
+  text-align: left;
+}
+
+.pose-name {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+
+/* Tribute Info */
+#tribute-info {
+  margin: 20px auto;
+  max-width: 700px;
+  text-align: left;
+}
+
+/* Link Styling */
+#tribute-link {
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
