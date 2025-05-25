@@ -1,0 +1,74 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("paper.gif");
+ background-color: #cccccc;
+  margin: 0;
+  padding: 0;
+}
+
+h1, p {
+  text-align: center;
+  margin-top: 20px;
+  color: #333;
+}
+
+form {
+  background-color: white;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+/* input[type="checkbox"] {
+  display: inline-block;
+  margin-bottom: 10px;
+} */
+
+textarea {
+  resize: vertical;
+}
+
+button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #218838;
+}
