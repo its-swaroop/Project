@@ -16,5 +16,5 @@ This project provides a structured and beautifully styled guide to the 12 steps 
   <img src="./Poster_Page.png" alt="website poster of suryanamaskar. "/>
 </html>
 
-## Acknowledgements
+## 🙏Acknowledgements
 Inspired by traditional yoga practices and modern web design principles.
