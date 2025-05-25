@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title> Survey Form </title>
+    <link rel="stylesheet" href="styles.css"
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form">
+      <label id="name-label">Name <input id="name" type="text" name="name" placeholder="Enter your name." required/></label>
+      <label id="email-label">Email<input id="email" type="email" name="email" placeholder="Enter your email." required/></label>
+      <label id="number-label">Age (Optional)<input id="number" type="number" name="age" placeholder="Enter your age." min="18" max="120"/></label>
+      <label>Which option best describes your current role?
+      <select id="dropdown">
+        <option value="default">Select current role</option>
+        <option value="one">Student</option>
+        <option value="two">Full time role</option>
+        <option value="three">Prefer not to say</option>
+      </select>
+      </label>
+      <label>Would you recommend freeCodeCamp to a friend?
+        <input type="radio" name="recommend" value="Definitely">Definitely
+        <input type="radio" name="recommend" value="May be">May be
+        <input type="radio" name="recommend" value="Not sure">Not sure
+      </label>
+      <label>What would you like to see improved? (Check all that apply)
+        <input type="checkbox" name="first" value="Front end projects"/>Front end projects
+        <input type="checkbox" name="second" value="Back-end Projects"/>Back-end Projects
+        <input type="checkbox" name="third" value="Data Visualization"/>Data Visualization
+        <input type="checkbox" name="fourth" value="Additional Courses"/>Additional Courses
+        <input type="checkbox" name="fifth" value="other"/>Other
+</label>
+<label id="comment">Any comments or suggestions?
+<textarea rows="4" cols="50" placeholder="Enter your comment here..">
+</textarea>
+</label>
+<button id="submit" type="submit">Submit</button>
+    </form>
+  </body>
+</html>
