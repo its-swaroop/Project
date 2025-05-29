@@ -7,7 +7,7 @@ A responsive, visually aesthetic **piano keyboard simulator** built using **HTML
 
 ## 📸 Preview
 <html>
-  <img src="" alt=""/>
+  <img src="./piano.png" alt="piano project screenshot"/>
 </html>
 
 
