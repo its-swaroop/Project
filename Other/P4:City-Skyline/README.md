@@ -1,8 +1,8 @@
 # 🌆 Learn CSS Variables by Building a City Skyline
 
-![City Skyline Preview](./screenshot.png) <!-- Replace with your image path -->
+![City Skyline Preview](../public/city_skyline.png) <!-- Replace with your image path -->
 
-This project is part of the [freeCodeCamp](https://www.freecodecamp.org/) curriculum and focuses on mastering **CSS Variables** by creating a responsive **city skyline** with HTML and CSS.
+This project is part of the freeCodeCamp curriculum and focuses on mastering **CSS Variables** by creating a responsive **city skyline** with HTML and CSS.
 
 ## 🧠 What I Learned
 
@@ -25,7 +25,11 @@ This project is part of the [freeCodeCamp](https://www.freecodecamp.org/) curric
 
 ## 📸 Screenshot
 
-> _Add your project screenshot here for a visual reference_
+>Day Skyline
+<img src="../public/city_skyline_day.png" alt="City Skyline Day Preview" width="450px">
+
+>Night Skyline
+<img src="../public/city_skyline_night.png" alt="City Skyline Night Preview" width="450px">
 
 ## 🚀 How to Run
 
@@ -41,7 +45,7 @@ This project is part of the [freeCodeCamp](https://www.freecodecamp.org/) curric
 
 ## 📌 Author
 
-[Swaroop S.](https://github.com/your-username)
+[Swaroop](https://github.com/its-swaroop)
 
 
 🔖 *This project showcases how CSS custom properties can simplify style management and improve front-end workflows.*
