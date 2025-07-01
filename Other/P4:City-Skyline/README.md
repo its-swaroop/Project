@@ -1,7 +1,5 @@
 # 🌆 Learn CSS Variables by Building a City Skyline
 
-![City Skyline Preview](../public/city_skyline.png) <!-- Replace with your image path -->
-
 This project is part of the freeCodeCamp curriculum and focuses on mastering **CSS Variables** by creating a responsive **city skyline** with HTML and CSS.
 
 ## 🧠 What I Learned
