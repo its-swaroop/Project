@@ -27,7 +27,7 @@ This project is part of the freeCodeCamp curriculum and focuses on mastering **C
 <img src="../public/city_skyline_day.png" alt="City Skyline Day Preview" width="450px">
 
 >Night Skyline
-<img src="../public/city_skyline_night.png" alt="City Skyline Night Preview" width="450px">
+<img src="../public/city_night_skyline.png" alt="City Skyline Night Preview" width="450px">
 
 ## 🚀 How to Run
 
