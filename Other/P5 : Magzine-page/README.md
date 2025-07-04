@@ -8,10 +8,8 @@
       </ul>
     </p>
     <section>
-      <img src="../public/magzine_p1.png" alt="first screenshoot of magzine page" width=25%/>
-      <figcaption>fig1. Screenshot page1</figcaption>
-      <img src="../public/magzine_p2.png" alt="first screenshoot of magzine page" width=25%/>
-      <figcaption>fig1. Screenshot page2</figcaption>
+      <img src="../public/magzine_p1.png" alt="first screenshoot of magzine page" width=50%/>
+      <img src="../public/magzine_2.png" alt="second screenshoot of magzine page" width=50%/>
     </section>
 
   </body>
